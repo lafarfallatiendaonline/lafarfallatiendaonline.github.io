@@ -150,7 +150,7 @@ document.getElementById('formPedidoYeli').addEventListener('submit', function(e)
     const direccion = document.getElementById('direccion').value;
     const mensaje = document.getElementById('mensaje').value;
     
-    let textoWhatsApp = `*NUEVO PEDIDO - Yeli Di Tutto*%0A%0A`;
+    let textoWhatsApp = `*NUEVO PEDIDO - La Farfalla*%0A%0A`;
     textoWhatsApp += `*Nombre:* ${nombre}%0A`;
     textoWhatsApp += `*Teléfono:* ${telefono}%0A`;
     textoWhatsApp += `*Producto:* ${producto}%0A`;
@@ -171,7 +171,7 @@ document.getElementById('formPedidoYeli').addEventListener('submit', function(e)
     window.open(urlWhatsApp, '_blank');
     
     setTimeout(() => {
-        alert('✅ Se abrió WhatsApp con tu pedido pre-llenado.\n\nYeli te responderá pronto. ¡Gracias!');
+        alert('✅ Se abrió WhatsApp con tu pedido pre-llenado.\n\nLa Farfalla te responderá pronto. ¡Gracias!');
     }, 500);
 });
 
@@ -227,7 +227,7 @@ function mostrarMensajeProteccion() {
         <div class="mensaje-proteccion">
             <i class="fas fa-lock"></i>
             <h3>Contenido protegido</h3>
-            <p>¡Gracias por visitar Yeli Di Tutto!</p>
+            <p>¡Gracias por visitar La Farfalla!</p>
         </div>
     `;
     
