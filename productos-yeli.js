@@ -269,7 +269,7 @@ const productos = [
     {
         id: 26,
         nombre: "ESPONJAS DE FREGAR - 2 capas",
-        descripcion: "LIMPIEZA PRÁCTICA Y EFICIENTE. Dos caras en una: lado rojo de estropajo para suciedad difícil, lado amarillo de esponja suave para superficies delicadas. Duraderas, absorbentes y económicas. Pack múltiple.",
+        descripcion: "LIMPIEZA PRÁCTICA Y EFICIENTE. Dos caras en una: lado de estropajo para suciedad difícil, lado de esponja suave para superficies delicadas. Duraderas, absorbentes y económicas. Pack múltiple.",
         precio: "Consultar",
         foto: "esponjas-limpieza-multiusos.webp",
         tieneFoto: true,
