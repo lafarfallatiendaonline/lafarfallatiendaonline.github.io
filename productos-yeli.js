@@ -50,15 +50,6 @@ const productos = [
         categoria: "ferreteria"
     },
     {
-        id: 3,
-        nombre: "ASIENTO DE BAÑO LALIE HOME - Calidad Americana",
-        descripcion: "CALIDAD CERTIFICADA PARA TU BAÑO. Asiento resistente a golpes, diseño ergonómico, fácil instalación. Superficie lisa que no acumula bacterias. Compatible con inodoros estándar. Dale a tu baño el toque de calidad que merece.",
-        precio: "Consultar",
-        foto: "asiento-bano-lalie.webp",
-        tieneFoto: true,
-        categoria: "ferreteria"
-    },
-    {
         id: 9,
         nombre: "CANDADOS CON LLAVES - Varios tamaños",
         descripcion: "SEGURIDAD PARA LO QUE MÁS QUIERES. Candados resistentes con juego de llaves incluidas. Tamaños variados: para bicicletas, mochilas, taquillas, puertas, cajas de herramientas. Prácticos y económicos.",
